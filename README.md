@@ -29,6 +29,8 @@
 - **💡 Interactive Interface**: Beautiful dark-mode Streamlit interface with wide sidebar and enhanced UX
 - **📄 Detailed Reporting**: Export comprehensive medical reports to Word documents
 - **🔍 Literature Synthesis**: Real-time medical literature search and synthesis
+<img width="2063" height="1211" alt="Untitled-2" src="https://github.com/user-attachments/assets/5dc5e863-b8d7-4a2b-98af-2ad759bb5b7b" />
+
 
 ### 🏥 Medical Capabilities
 
@@ -51,6 +53,8 @@
 - **Comprehensive Workup**: Detailed diagnostic testing recommendations
 - **Specialist Referrals**: Evidence-based referral guidelines
 - **Follow-up Protocols**: Long-term monitoring and management plans
+<img width="1848" height="1196" alt="image" src="https://github.com/user-attachments/assets/556c8cd7-2b81-439f-a354-6e29e9a38a0a" />
+
 
 ## 🛠️ Technical Architecture
 

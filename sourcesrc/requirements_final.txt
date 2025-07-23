@@ -1,0 +1,65 @@
+# Final Comprehensive Requirements File for MedRAG Project
+# Generated on July 23, 2025
+# Python version: Recommended Python 3.10 or compatible version
+
+# Core Dependencies
+torch>=1.13.0
+transformers>=4.21.0
+openai>=0.27.0
+tiktoken>=0.3.0
+tqdm>=4.64.0
+
+# Web Framework & UI
+streamlit>=1.28.0
+
+# AI/ML and NLP Libraries
+sentence-transformers>=2.2.2
+ollama>=0.1.7
+
+# Data Processing & Analysis
+pandas>=1.5.0
+numpy>=1.21.0
+datasets>=2.16.1
+
+# Document Processing
+python-docx>=0.8.11
+pillow>=9.0.0
+
+# Vector Database & Search
+faiss-cpu>=1.7.2
+pyserini>=0.22.1
+
+# Text Processing & Templating
+langchain>=0.0.345
+python-liquid>=1.10.2
+regex>=2022.7.9
+
+# Standard Library Extensions (usually included but listed for completeness)
+# os - built-in
+# asyncio - built-in
+# base64 - built-in
+# datetime - built-in
+# io - built-in
+# warnings - built-in
+# time - built-in
+# hashlib - built-in
+# json - built-in
+# re - built-in
+# sys - built-in
+# argparse - built-in
+# gzip - built-in
+
+# XML Processing (built-in but may need verification)
+# xml.etree.ElementTree - built-in
+
+# Development & Testing Dependencies (Optional)
+# pytest>=7.0.0
+# pytest-asyncio>=0.21.0
+
+# Notes:
+# 1. All versions are minimum recommended versions
+# 2. Some packages may have additional dependencies that will be automatically installed
+# 3. For GPU acceleration, replace faiss-cpu with faiss-gpu if CUDA is available
+# 4. Ensure Python version compatibility with all packages
+# 5. Consider using virtual environment for isolation
+# 6. API keys are now managed through the application interface, no .env file needed

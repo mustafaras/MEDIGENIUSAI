@@ -69,6 +69,8 @@
 
 ### Supported AI Models
 
+https://github.com/user-attachments/assets/814bbcd0-5ee2-4408-96d6-b90bdeb2482a
+
 #### OpenAI Models
 - **GPT-4o** - Vision Capable | 4K Output | 128K Context
 - **GPT-4o Mini** - Fast & Efficient | 16K Output | 128K Context  

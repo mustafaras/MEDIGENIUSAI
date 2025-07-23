@@ -1,9 +1,8 @@
 
 <div align="center">
-    🧠 MediGenius AI - Advanced Medical Intelligence Platform
-</div>
 
-<div align="center">
+# 🧠 MediGenius AI  
+## Advanced Medical Intelligence Platform
 
 ![MediGenius AI](https://img.shields.io/badge/MediGenius-AI-blue?style=for-the-badge&logo=brain&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.10+-green?style=for-the-badge&logo=python&logoColor=white)
@@ -18,6 +17,7 @@
 </div>
 
 ## 🚀 Project Overview
+
 <img width="2551" height="1278" alt="image" src="https://github.com/user-attachments/assets/1314f824-1a66-4236-ac27-b5c3deba038c" />
 
 **MediGenius AI** is an experimental medical research platform that revolutionizes clinical decision support through advanced artificial intelligence. This comprehensive system integrates multiple AI providers, sophisticated retrieval-augmented generation (RAG), and multi-modal medical imaging analysis to provide evidence-based diagnostic insights for research and educational purposes.

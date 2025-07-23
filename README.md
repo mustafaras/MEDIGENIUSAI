@@ -1,6 +1,7 @@
 
 <div align="center">
-# 🧠 MediGenius AI - Advanced Medical Intelligence Platform
+
+    🧠 MediGenius AI - Advanced Medical Intelligence Platform
 </div>
 
 <div align="center">

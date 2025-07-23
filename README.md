@@ -111,7 +111,7 @@ https://github.com/user-attachments/assets/814bbcd0-5ee2-4408-96d6-b90bdeb2482a
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/medigenius-ai.git
+git clone https://github.com/mustafaras/MEDIGENIUSAI.git
 cd MEDIGENIUSAI
 ```
 

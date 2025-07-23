@@ -1,6 +1,5 @@
 
 <div align="center">
-
     🧠 MediGenius AI - Advanced Medical Intelligence Platform
 </div>
 
